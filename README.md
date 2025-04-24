@@ -1,2 +1,2 @@
-# Fundamentals of Software engineering-2nd Edition
- Fundamentals of Software engineering - 2nd Edition, by BPB Publications
+# Fundamentals of Software Engineering - 2nd Edition
+ Fundamentals of Software Engineering - 2nd Edition, by BPB Publications
