@@ -1,0 +1,16 @@
+Class Diagram:
+- User
+    - Attributes: userId, name, email
+    - Methods: register(), login(), logout()
+
+- Order
+    - Attributes: orderId, orderDate, status
+    - Methods: createOrder(), cancelOrder(), updateStatus()
+
+- Product
+    - Attributes: productId, productName, price, quantity
+    - Methods: updateStock(), getProductDetails()
+
+Relationships:
+- User "1" ---> "Many" Order (A user can place many orders)
+- Order "1" ---> "Many" Product (An order can contain many products)
